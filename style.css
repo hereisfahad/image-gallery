@@ -9,8 +9,8 @@ body {
 }
 
 h1 {
-	font-family: fantasy;
-	font-size: 3em;
+	font-family: 'Akronim', cursive,fantasy;
+	font-size: 4em;
 	border-bottom: 2px solid pink;
 	border-right: 2px solid pink;
 	width: 400px;
@@ -27,7 +27,7 @@ img {
 	width: 600px;
 	height: 400px;
 	margin: 10px;
-	transition: all 1s;
+	transition: all .5s;
 }
 
 img:hover {
